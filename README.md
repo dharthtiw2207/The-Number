@@ -11,8 +11,8 @@ The app is developed using React.js and material-UI.
 
 ## 💻 Live Demo:
 
-https://the-weather-forecasting.netlify.app
-
+[https://the-weather-forecasting.netlify.app
+](https://the-weather-lyart.vercel.app/)
 <br/>
 
 ## ✨ Getting Started
