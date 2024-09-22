@@ -56,5 +56,5 @@ Check `packages.json` for details
 - [ ] Dark/Light Mode
 
 <br/>
-Thank You ☺ -->
+Thank You ☺ 
 "# The-Number" 
